@@ -1,4 +1,4 @@
-# Composition of Active and Passive circuits
+# Construction of Active and Passive circuits
 
 This repository contains the implementation of four filters in Multisim:
 
